@@ -1,0 +1,7 @@
+Unity version: 2021.3.15f1
+
+Project template: Third Person (Core)
+
+Project name: GDP
+
+Used assets:
