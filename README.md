@@ -26,7 +26,7 @@ Zrzuty ekranu
 
 Twórcy
 ---
-Michał Chmiel - [github]([https://github.com/Kolixon](https://github.com/Kolixon "https://github.com/Kolixon"))
-Adam Gigiewicz - [github]([https://github.com/AdamGigiewicz](https://github.com/AdamGigiewicz "https://github.com/AdamGigiewicz"))
-Mateusz Jakobsche - [github]([https://github.com/MateuszJakobsche](https://github.com/MateuszJakobsche "https://github.com/MateuszJakobsche"))
-Kuba Pszczółka - [github]([https://github.com/itsKlvd](https://github.com/itsKlvd "https://github.com/itsKlvd"))
+Michał Chmiel - [Kolixon](https://github.com/Kolixon)
+Adam Gigiewicz - [AdamGigiewicz](https://github.com/AdamGigiewicz)
+Mateusz Jakobsche - [MateuszJakobsche](https://github.com/MateuszJakobsche)
+Kuba Pszczółka - [itsKlvd](https://github.com/itsKlvd)
