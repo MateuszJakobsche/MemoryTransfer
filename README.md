@@ -12,17 +12,17 @@ Ośrodek badawczy w którym testowana jest technologia transferu wspomnień mię
 
 Zrzuty ekranu
 ---
-![[image.png]]
+![menu](https://github.com/MateuszJakobsche/GameDevelopmentProject/blob/main/GDP/Screenshots/image.png?raw=true)
 
-![[image (1).png]]
+![korytarz](https://github.com/MateuszJakobsche/GameDevelopmentProject/blob/main/GDP/Screenshots/image%20(1).png?raw=true)
 
-![[image (2).png]]
+![transfer](https://github.com/MateuszJakobsche/GameDevelopmentProject/blob/main/GDP/Screenshots/image%20(2).png?raw=true)
 
-![[image (3).png]]
+![biuro](https://github.com/MateuszJakobsche/GameDevelopmentProject/blob/main/GDP/Screenshots/image%20(3).png?raw=true)
 
-![[image (4).png]]
+![archiwum](https://github.com/MateuszJakobsche/GameDevelopmentProject/blob/main/GDP/Screenshots/image%20(4).png?raw=true)
 
-![[image (5).png]]
+![security](https://github.com/MateuszJakobsche/GameDevelopmentProject/blob/main/GDP/Screenshots/image%20(5).png?raw=true)
 
 Twórcy
 ---
