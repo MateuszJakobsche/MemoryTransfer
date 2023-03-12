@@ -1,4 +1,3 @@
-# GameDevelopmentProject
 Memory Transfer
 ===
 Opis
@@ -26,7 +25,7 @@ Zrzuty ekranu
 
 Twórcy
 ---
-Michał Chmiel - [Kolixon](https://github.com/Kolixon)
-Adam Gigiewicz - [AdamGigiewicz](https://github.com/AdamGigiewicz)
-Mateusz Jakobsche - [MateuszJakobsche](https://github.com/MateuszJakobsche)
-Kuba Pszczółka - [itsKlvd](https://github.com/itsKlvd)
+Michał Chmiel - [Kolixon](https://github.com/Kolixon),
+Adam Gigiewicz - [AdamGigiewicz](https://github.com/AdamGigiewicz),
+Mateusz Jakobsche - [MateuszJakobsche](https://github.com/MateuszJakobsche),
+Kuba Pszczółka - [itsKlvd](https://github.com/itsKlvd).
