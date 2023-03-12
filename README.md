@@ -11,17 +11,17 @@ Ośrodek badawczy w którym testowana jest technologia transferu wspomnień mię
 
 Zrzuty ekranu
 ---
-![menu](https://github.com/MateuszJakobsche/GameDevelopmentProject/blob/main/GDP/Screenshots/image.png?raw=true)
+![menu](https://github.com/MateuszJakobsche/GameDevelopmentProject/blob/main/Game/Screenshots/image.png?raw=true)
 
-![korytarz](https://github.com/MateuszJakobsche/GameDevelopmentProject/blob/main/GDP/Screenshots/image%20(1).png?raw=true)
+![korytarz](https://github.com/MateuszJakobsche/GameDevelopmentProject/blob/main/Game/Screenshots/image%20(1).png?raw=true)
 
-![transfer](https://github.com/MateuszJakobsche/GameDevelopmentProject/blob/main/GDP/Screenshots/image%20(2).png?raw=true)
+![transfer](https://github.com/MateuszJakobsche/GameDevelopmentProject/blob/main/Game/Screenshots/image%20(2).png?raw=true)
 
-![biuro](https://github.com/MateuszJakobsche/GameDevelopmentProject/blob/main/GDP/Screenshots/image%20(3).png?raw=true)
+![biuro](https://github.com/MateuszJakobsche/GameDevelopmentProject/blob/main/Game/Screenshots/image%20(3).png?raw=true)
 
-![archiwum](https://github.com/MateuszJakobsche/GameDevelopmentProject/blob/main/GDP/Screenshots/image%20(4).png?raw=true)
+![archiwum](https://github.com/MateuszJakobsche/GameDevelopmentProject/blob/main/Game/Screenshots/image%20(4).png?raw=true)
 
-![security](https://github.com/MateuszJakobsche/GameDevelopmentProject/blob/main/GDP/Screenshots/image%20(5).png?raw=true)
+![security](https://github.com/MateuszJakobsche/GameDevelopmentProject/blob/main/Game/Screenshots/image%20(5).png?raw=true)
 
 Twórcy
 ---
